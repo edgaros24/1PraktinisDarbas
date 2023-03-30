@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<owner xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="generated.xsd">
+    <id>17</id>
+    <name>Ona</name>
+    <lastname>Onute</lastname>
+    <specialist>
+        <id>18</id>
+        <name>Vardenis</name>
+        <lastname>Pavardenis</lastname>
+        <specialization>Chirurgas</specialization>
+    </specialist>
+    <animals>
+        <animal>
+            <id>19</id>
+            <name>Tom</name>
+            <gender>Male</gender>
+            <type>Cat</type>
+        </animal>
+        <animal>
+            <id>20</id>
+            <name>Mary</name>
+            <gender>Female</gender>
+            <type>Cat</type>
+        </animal>
+    </animals>
+</owner>
